@@ -1,3 +1,3 @@
-Repository created for this video : https://www.youtube.com/watch?v=RdXdgrBiH7M
+Repository created for this video : https://youtu.be/MwqucMhDGR8
 
 Advanced version with multiple pages : https://github.com/Bluegnarl/php-vercel-video
